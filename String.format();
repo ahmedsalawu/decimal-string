@@ -1,0 +1,2 @@
+String.format("%.2f",+value)
+String.format("%d:%02d:%02d %s",+value1,+value2,+value3,string)
